@@ -8,7 +8,7 @@
 }
 
 .toggle {
-  font-style: 1.5rem;
+  font-size: 1.5rem;
   background-color: transparent;
   color: var(--color-text);
   transition: all 150ms ease-out;
@@ -28,7 +28,7 @@
   margin: 0.3rem;
   text-transform: capitalize;
   background-color: transparent;
-  color: var(--color-accent);
+  color: var(--color-text);
   opacity: 0.8;
   font-weight: bold;
 }
